@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  tuning: MyString
+  energy: 1
+
+two:
+  title: MyString
+  tuning: MyString
+  energy: 1
